@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:background="@drawable/em"> <!-- Set background image -->
+
+    <!-- SOS Button (Centered) -->
+    <Button
+        android:id="@+id/btn_sos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:backgroundTint="#D20103"
+        android:drawableStart="@drawable/emergency_call"
+        android:drawablePadding="10dp"
+        android:text="EMERGENCY SOS"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:layout_marginBottom="40dp"
+        android:layout_alignParentBottom="true"
+        android:elevation="6dp"/>
+</RelativeLayout>

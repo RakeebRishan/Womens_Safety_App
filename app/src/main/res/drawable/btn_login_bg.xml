@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background color of the button -->
+    <gradient
+        android:startColor="#001F54"
+        android:endColor="#003366"
+        android:angle="45" />
+
+    <!-- Rounded corners -->
+    <corners android:radius="25dp" />
+
+    <!-- Optional: Add padding around text -->
+    <padding
+        android:left="20dp"
+        android:right="20dp"
+        android:top="12dp"
+        android:bottom="12dp" />
+</shape>

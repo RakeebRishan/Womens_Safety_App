@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775620203996",
+    "project_id": "nibmsosapp",
+    "storage_bucket": "nibmsosapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775620203996:android:352a0bad3c5d1ab3c32b19",
+        "android_client_info": {
+          "package_name": "com.nibm.sos_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIQ5MVu4R0oEHcnzo7BNo8gDuKfHdEw6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
